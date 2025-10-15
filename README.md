@@ -1,4 +1,7 @@
 # Meeting Summarizer
+##DEMO VIDEO
+click here
+[![Watch the video](https://img.shields.io/badge/YouTube-View%20Demo-red?logo=youtube&style=for-the-badge)](https://youtu.be/MgzlZRN3__k)
 
 ## Overview
 The **Meeting Summarizer** is a Python project that transcribes meeting audio files and generates concise, action-oriented summaries.  
